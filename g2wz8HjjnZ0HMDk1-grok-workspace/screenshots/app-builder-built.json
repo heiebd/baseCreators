@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Base Views Checker",
+      "hasCanvas": false,
+      "bodyTextLen": 684,
+      "bodyTextHash": "927a6fc35664f6b9b3d7ecdba76722df56108ec16ec4878742efe603c55b3a10",
+      "bodyTextPrefix": "B Base Views Creator airdrop checker Unofficial · Base only BASE",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Base Views Checker",
+      "hasCanvas": false,
+      "bodyTextLen": 661,
+      "bodyTextHash": "9223396e5f9e536cd92211855efa1fdd7bdf24325543779669931005ebd0c5bf",
+      "bodyTextPrefix": "B Base Views Creator airdrop checker BASE · X CREATORS How many ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
