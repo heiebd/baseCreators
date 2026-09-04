@@ -83,11 +83,10 @@ function Home() {
             Base · X creators
           </p>
           <h1 className="text-4xl font-semibold leading-tight tracking-tight sm:text-5xl">
-            How many $BASE did your views earn?
+            How much $BASE are you estimated to get?
           </h1>
           <p className="mt-4 max-w-xl text-base leading-relaxed text-muted">
-            Enter your X username. We sum views on Base posts, then convert them
-            into an estimated $BASE allocation from a 0.5% creator pool.
+            Enter your X username. We estimate your $BASE creator allocation from a 0.5% supply pool.
           </p>
         </section>
 
