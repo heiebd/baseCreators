@@ -182,7 +182,7 @@ function ResultCard({ result }: { result: CheckResult }) {
                 {formatToken(est.tokens)}
               </p>
               <p className="mt-2 text-sm text-muted">
-                {formatToken(BASE_PER_VIEW)} $BASE per view
+                {formatToken(BASE_PER_VIEW)} 0.2 × total impressions
                 {est.capped
                   ? ` · capped at ${formatInt(MAX_WALLET_TOKENS)} (1% of creator pool)`
                   : null}
